@@ -1,6 +1,6 @@
 -- Get tax payments made by individual '1234567890'
 CALL GetTaxPaymentByMonth('1234567890', 0);
-
+--Running one at a time.
 -- Get tax payments made by individual '1234567892'
 CALL GetTaxPaymentByMonth('1234567892', 0);
 
