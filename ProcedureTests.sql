@@ -30,6 +30,6 @@ CALL InsertTaxPayment('1234567892', NULL, 1, 150.00, '2023-09-01', 'Real Estate'
 
 -- Insert a tax payment by company 'C34567890'
 CALL InsertTaxPayment(NULL, 'C34567890', 1, 350.00, '2023-09-01', 'Corporate Tax');
---
+-
 
 
